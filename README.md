@@ -58,17 +58,19 @@ Double quantum dot connected to two fermionic reservoirs, denoted as a system $S
 
 ## Examples
 
-`Figs346_visualisation.ipynb` reproduces Figures 3, 4, 6 from the manuscript.  
+`Figs3467_visualisation.ipynb` reproduces Figures 3, 4, 6, 7 from the manuscript.  
 
-`Fig7_visualisation.ipynb` includes plots of the average stationary-state particle current, its fluctuations, and other quantities considered as a function of the detuning $\delta$ of energy levels of dots.
+`Fig8_visualisation.ipynb` includes plots of the average stationary-state particle current, its fluctuations, and other quantities considered as a function of the detuning $\delta$ of energy levels of dots.
 
-`Fig8_visualisation.ipynb` includes plots of the average stationary-state particle current, its fluctuations, and other quantities considered as a function of the interdot coupling $g$.
+`Fig9_visualisation.ipynb` includes plots of the average stationary-state particle current, its fluctuations, and other quantities considered as a function of the interdot coupling $g$.
 
 `Fig2_visualisation.ipynb` includes the plot of the "phase diagram", i.e. Fig. 2 from the manuscript.
 
-`Fig10_visualisation.ipynb` reproduces Fig. 10 showing how small cross-terms of the non-additive master equation are.
+`Fig10_visualisation.ipynb` reproduces Fig. 10 showing how different current in the local and global bases are.
 
-`Fig11_visualisation.ipynb` reproduces Fig. 11 with the results of complete positivity test and asymptomatic non-Markovianity.  
+`Fig12_visualisation.ipynb` reproduces Fig. 12 showing how small cross-terms of the non-additive master equation are.
 
-`Rates_fig2_figs9.ipynb` the graphs with gain and loss rates of Fig. 2 to reproduce Fig. 9.  
+`Fig13_visualisation.ipynb` reproduces Fig. 13 with the results of agreement between current in the Landauer-B\"uttiker and the Quantum-Master-Equation approaches.  
+
+`Rates_fig2_figs11.ipynb` the graphs with gain and loss rates of Fig. 2 to reproduce Fig. 9.  
 
