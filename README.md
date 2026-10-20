@@ -52,8 +52,6 @@ Double quantum dot connected to two fermionic reservoirs, denoted as a system $S
 
 4. Use `Slurm` commands to put your job in a queue `squeue phd.sh` via the provided scrip `phd.sh` to get Fig. 2.
 
-5. Use `Slurm` commands to put your job in a queue `nm.sh` via the provided scrip `nm.sh` to get Fig. 11.  
-
 
 
 ## Examples
